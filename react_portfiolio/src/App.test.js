@@ -7,7 +7,7 @@ import { act } from "react-dom/test-utils";
 import { Header } from "./components/header";
 import { Navbar } from "./Components/navbar";
 import { Navigation } from "./components/navigation";
-import { Project } from "./components/Projects";
+import { Project } from "./components/body components/Projects";
 import App from "./App";
 
 let container = null;

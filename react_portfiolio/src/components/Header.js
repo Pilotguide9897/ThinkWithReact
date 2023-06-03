@@ -2,7 +2,7 @@ import React from "react";
 import '../styles/Header.css';
 import { Navigation } from "./navigation";
 
-export function Header () {
+export function Header() {
  return (
     <header className={ }>
         <div className={}>
